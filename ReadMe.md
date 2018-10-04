@@ -9,7 +9,6 @@
 
 *If you do not have `jitsu` installed you can install it via `npm install jitsu -g`*
 
-
 # Usage
 
 ### Starting helloworld locally
